@@ -28,9 +28,6 @@ info@braincrush.org
 
 <h1><img src="https://github.com/user-attachments/assets/0ece6e98-00f7-4e38-af34-470278793621" width="32px"> Tech Stack:</h1>
 
-<img align='right' src="https://github.com/user-attachments/assets/827c55d0-6cab-487e-93ac-f577f0bf7012" width="350">
-<br>
-
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -57,6 +54,23 @@ info@braincrush.org
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)](https://ubuntu.com/)
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
 [![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+
+## 🧰 Programs & Tools
+
+[![JetBrains Rider](https://img.shields.io/badge/JetBrains%20Rider-000000.svg?style=for-the-badge\&logo=jetbrains\&logoColor=white)](https://www.jetbrains.com/rider/)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio%202022-5C2D91.svg?style=for-the-badge\&logo=visualstudio\&logoColor=white)](https://visualstudio.microsoft.com/vs/)
+[![WebStorm](https://img.shields.io/badge/JetBrains%20WebStorm-000000.svg?style=for-the-badge\&logo=webstorm\&logoColor=white)](https://www.jetbrains.com/webstorm/)
+[![DataGrip](https://img.shields.io/badge/JetBrains%20DataGrip-000000.svg?style=for-the-badge\&logo=datagrip\&logoColor=white)](https://www.jetbrains.com/datagrip/)
+[![PgAdmin 4](https://img.shields.io/badge/PgAdmin%204-336791.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)](https://www.pgadmin.org/download/)
+[![Bruno](https://img.shields.io/badge/Bruno%20API%20Tester-3E7BFA.svg?style=for-the-badge\&logo=bruno\&logoColor=white)](https://www.usebruno.com/)
+[![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-181717.svg?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/apps/desktop)
+[![Docker Desktop](https://img.shields.io/badge/Docker%20Desktop-2496ED.svg?style=for-the-badge\&logo=docker\&logoColor=white)](https://www.docker.com/products/docker-desktop/)
+[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)](https://code.visualstudio.com/)
+
+### 🔌 VS Code Extensions
+
+[![Markdown Preview Enhanced](https://img.shields.io/badge/Markdown%20Preview%20Enhanced-000000.svg?style=for-the-badge\&logo=markdown\&logoColor=white)](https://shd101wyy.github.io/markdown-preview-enhanced/#/)
+[![Mermaid Chart](https://img.shields.io/badge/Mermaid%20Chart-00B4AB.svg?style=for-the-badge\&logo=mermaid\&logoColor=white)](https://www.mermaidchart.com/)
 
 <h1><img src="https://github.com/user-attachments/assets/5f7a8239-0658-4ae0-89a9-9fa4c17d2b3c" width="30px"> GitHub Stats:</h1>
 <br>
